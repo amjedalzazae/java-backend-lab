@@ -1,3 +1,4 @@
 *.class
 out/
 *.swp
+foundation/java/wallet/storage/transactions.txt
